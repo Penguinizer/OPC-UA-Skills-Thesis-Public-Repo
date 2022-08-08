@@ -1,4 +1,4 @@
-Code developed for the Control, Robotics and Autonomous Systems line thesis project by Antti Matikainen. All code provided as is with no real guarantees. Implemented utilizing the Prosys OPC UA Java SDK, see their licensing.
+Code developed for the Control, Robotics and Autonomous Systems line thesis project. All code provided as is with no real guarantees. Implemented utilizing the Prosys OPC UA Java SDK, see their licensing.
 -----
 This project requires the Prosys OPC UA Java SDK. In addition the types for the di and plc companion specifications must be generated as per instructions supplied with said SDK.
 -----
